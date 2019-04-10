@@ -12,4 +12,4 @@ https://momentumdash.com/ 를 참조 하여 만든 사이트
 + 업데이트 : 로딩중기능 생성
 
 ### 링크
-[DEMO SITE](https://kimkwanjs.github.io/mr/)
+데모 link : https://kim-kwan.github.io/mometum-project/
